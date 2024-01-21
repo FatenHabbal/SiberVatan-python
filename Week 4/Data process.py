@@ -1,5 +1,5 @@
 #Data Process#
-
+ 
 liste = [1,2,3,4,5]
 # list tanimlarken kapali parantez kullanmalisin
 
