@@ -1,5 +1,5 @@
 #INPUT ISLEMLERI
-
+ 
 kullanici_ad = input("Lutfen adinizi giriniz:")
 print("Hosgeldin",kullanici_ad)
 #buarada kullancidan ismini girmesini istedik.
