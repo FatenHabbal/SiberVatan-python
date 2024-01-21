@@ -1,5 +1,5 @@
 #STRING ISLEMLERI
-
+ 
 ad = "faten"
 soyad = "habbal "
 yas=13
