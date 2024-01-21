@@ -1,4 +1,4 @@
-ayi1 = 42
+sayi1 = 42
 sayi2 = -17
 print(type(sayi2))
 #burada sayinin int bir deger oldugunu gosterir
