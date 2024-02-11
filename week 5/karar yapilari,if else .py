@@ -179,6 +179,26 @@ elif usernameinput != "faten " and sifreinput != "faten123":
  #yanlis olana yere != koy
  
 
+print("-------------------*HOSGELDİNİZ*--------------------------")
+print("toplama icin 1")
+print("cikarma icin 2")
+print("carpma icin 3")
+print("bolme icin 4")
+tercih_input =int(input("-HANGİ İSLEMİ TERCİH EDERSİNİZ?:3"))
+sayi_input = int(input("ilk sayiyi giriniz:"))
+sayi_input2 = int(input("ikinci sayiyi giriniz:"))
+
+
+if tercih_input==1:
+    print(sayi_input+sayi_input2)
+elif tercih_input==2:
+    print(sayi_input - sayi_input2)
+elif tercih_input==3:
+    print(sayi_input * sayi_input2)
+else:
+    tercih_input==4
+    print(sayi_input/sayi_input2)
+
 
 
 
