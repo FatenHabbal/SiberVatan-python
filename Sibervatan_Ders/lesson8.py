@@ -3,7 +3,7 @@ def faktoriyel(n):
         return n* faktoriyel(n-1)
 sayi=4
 print(faktoriyel(sayi))
-
+ 
 #rekarsif fonksiyon soru tipi klasık faktoriyel
 
 
